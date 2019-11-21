@@ -34,6 +34,14 @@ body {
   padding-bottom: 2rem;
 }
 /*body css*/
+.container{
+background-color: black;
+color: white;
+}
+.row{
+    background-color: black;
+    
+}
 
 .mainText {
   background-color: black;
