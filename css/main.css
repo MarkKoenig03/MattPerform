@@ -8,9 +8,10 @@ body {
 }
 
 /*Header css*/
-header {
+.header {
   background-color: black;
   padding: 0rem;
+  
 }
 
 .title {
