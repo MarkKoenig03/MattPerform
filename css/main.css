@@ -11,7 +11,7 @@ body {
 .header {
   background-color: black;
   padding: 0rem;
-  
+  text-align: center;
 }
 
 .title {
@@ -34,13 +34,12 @@ body {
   padding-bottom: 2rem;
 }
 /*body css*/
-.container{
-background-color: black;
-color: white;
+.container {
+  background-color: black;
+  color: white;
 }
-.row{
-    background-color: black;
-    
+.row {
+  background-color: black;
 }
 
 .mainText {
@@ -65,4 +64,3 @@ footer {
   font-size: large;
   padding: 0rem;
 }
-
