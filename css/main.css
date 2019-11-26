@@ -8,10 +8,11 @@ body {
 }
 
 /*Header css*/
-.header header {
+.header {
   background-color: black;
   padding: 15rem;
   text-align: center;
+  background-color: black;
   background-image: url(../images/busniessCardCar.jpg);
   background-size: 1000 800; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
   -webkit-background-size: 1000 800; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
