@@ -8,15 +8,15 @@ body {
 }
 
 /*Header css*/
-.header {
+.header header {
   background-color: black;
   padding: 15rem;
   text-align: center;
-  background-image: url(/images/busniessCardCar.jpg);
-  background-size: 2005px 700px; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
-  -webkit-background-size:  2005px 700px; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
-  -moz-background-siz: 2005px 700px; /* optional for Firefox 3.6 */
-  -o-backgroundize: 2005px 700px; /* for Opera 9.5 */
+  background-image: url(../images/busniessCardCar.jpg);
+  background-size: 1000 800; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
+  -webkit-background-size: 1000 800; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
+  -moz-background-siz: 1000 800; /* optional for Firefox 3.6 */
+  -o-backgroundize: 1000 800; /* for Opera 9.5 */
   margin: 0rem; /* to remove the default white margin of body */
   padding: 8rem; /* to remove the default white margin of body */
   background-repeat: no-repeat;
@@ -31,7 +31,6 @@ body {
   color: white;
   padding: 0rem;
   text-emphasis-color: white;
-  
 }
 
 .slogan {
@@ -39,6 +38,7 @@ body {
   color: white;
   padding: 0rem;
   font-size: 3rem;
+  background-color: black;
 }
 .nav {
   color: white;
