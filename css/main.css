@@ -9,6 +9,7 @@ body {
 
 /*Header css*/
 .header {
+  color: white;
   background-color: transparent;
   padding: 15rem;
   text-align: center;
