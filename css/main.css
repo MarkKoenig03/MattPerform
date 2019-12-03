@@ -8,6 +8,9 @@ body {
 }
 
 /*Header css*/
+header{
+  background-color: black;
+}
 .header {
   color: white;
   background-color: transparent;
