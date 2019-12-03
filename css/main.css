@@ -47,15 +47,15 @@ body {
 }
 /*body css*/
 .container {
-  background-color: black;
+  background-color: transparent;
   color: white;
 }
 .row {
-  background-color: black;
+  background-color: transparent;
 }
 
 .mainText {
-  background-color: black;
+  background-color: transparent;
   color: white;
   padding: 0.1rem;
 }
