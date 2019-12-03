@@ -1,18 +1,18 @@
 html {
-  background-color: black;
+  background-color: transparent;
 }
 
 body {
-  background-color: black;
+  background-color: transparent;
   padding: 0rem;
 }
 
 /*Header css*/
 .header {
-  background-color: black;
+  background-color: transparent;
   padding: 15rem;
   text-align: center;
-  background-color: black;
+  background-color: transparent;
   background-image: url(../images/busniessCardCar.jpg);
   background-size: contain; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
   -webkit-background-size: contain; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
@@ -61,7 +61,7 @@ body {
 }
 /*Footer css*/
 footer {
-  color: black;
+  color: transparent;
   padding: 0rem;
 }
 
@@ -69,8 +69,8 @@ footer {
   text-align: left;
   padding: 1rem;
   position: absolute;
-  color: black;
-  background-color: black;
+  color: transparent;
+  background-color: transparent;
   color: white;
   font-family: "Times New Roman", Times, serif;
   font-size: large;
