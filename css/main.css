@@ -18,8 +18,8 @@ body {
   -webkit-background-size: contain; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
   -moz-background-siz: contain; /* optional for Firefox 3.6 */
   -o-backgroundize: contain; /* for Opera 9.5 */
-  margin: 0rem; /* to remove the default white margin of body */
-  padding: 8rem; /* to remove the default white margin of body */
+  margin: 0rem; /* to remove the default black margin of body */
+  padding: 8rem; /* to remove the default black margin of body */
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -29,26 +29,26 @@ body {
   font-size: 6rem;
   outline-color: blue;
   text-align: center;
-  color: white;
+  color: black;
   padding: 0rem;
-  text-emphasis-color: white;
+  text-emphasis-color: black;
 }
 
 .slogan {
   text-align: center;
-  color: white;
+  color: black;
   padding: 0rem;
   font-size: 3rem;
   background-color: transparent;
 }
 .nav {
-  color: white;
+  color: black;
   padding-bottom: 2rem;
 }
 /*body css*/
 .container {
   background-color: transparent;
-  color: white;
+  color: black;
 }
 .row {
   background-color: transparent;
@@ -56,7 +56,7 @@ body {
 
 .mainText {
   background-color: transparent;
-  color: white;
+  color: black;
   padding: 0.1rem;
 }
 /*Footer css*/
@@ -71,7 +71,7 @@ footer {
   position: absolute;
   color: transparent;
   background-color: transparent;
-  color: white;
+  color: black;
   font-family: "Times New Roman", Times, serif;
   font-size: large;
   padding: 0rem;
