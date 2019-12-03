@@ -24,7 +24,7 @@ body {
   background-position: center;
 }
 .jumbotron {
-  color: transparent;
+  background-color: transparent;
 }
 .title {
   font-family: "Times New Roman", Times, serif;
