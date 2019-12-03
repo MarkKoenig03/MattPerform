@@ -69,6 +69,7 @@ header{
 }
 .caboff{
   float: right;
+  border-right: 15px;
 }
 /*Footer css*/
 footer {
