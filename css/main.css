@@ -31,10 +31,11 @@ body {
   text-align: center;
   color: black;
   padding: 0rem;
-  text-emphasis-color: black;
+  
 }
 .jumbotron {
   background-color: transparent;
+  background-image: url(../images/busniessCardCar.jpg);
 }
 .slogan {
   text-align: center;
