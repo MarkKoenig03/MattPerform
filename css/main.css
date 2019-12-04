@@ -72,6 +72,13 @@ header{
   float: right;
   border-right: 15px;
 }
+.btelogo{
+  height: 100px;
+  float: right;
+}
+.BTE{
+ font-weight: bold ;
+}
 /*Footer css*/
 footer {
   color: transparent;
