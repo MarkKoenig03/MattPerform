@@ -67,17 +67,28 @@ header{
 .caboff{
   float: right;
   border-right: 15px;
+
 }
 .btelogo{
   height: 100px;
   float: right;
+  margin: 0 0 10px 10px;
+}
+.bte-p{
+  clear: left;
+  overflow: auto;
 }
 .BTE{
  font-weight: bold ;
 }
 .XDPlogo{
-  height: 100px;
+  height: 75px;
   float: right;
+  margin: 0 0 10px 10px ;
+}
+.xdp-p{
+  clear: left;
+  overflow: auto;
 }
 .XDP{
   font-weight: bold;
@@ -90,7 +101,7 @@ footer {
 
 .footer {
   text-align: left;
-  padding: 1rem;
+  padding: 2rem;
   position: absolute;
  
   background-color: black;
