@@ -79,7 +79,7 @@ header{
   overflow: auto;
 }
 .BTE{
- font-weight: bold ;
+  font-weight: bold ;
 }
 .XDPlogo{
   height: 75px;
@@ -93,6 +93,21 @@ header{
 .XDP{
   font-weight: bold;
 }
+.btrlogo{
+  background-color: black;
+  height: 100%;
+  width: auto;
+  max-width: 200px;
+  border-radius:5px ;
+  float: right;
+}
+.btr-p{
+  clear: left;
+  overflow: auto;
+}
+.btr{
+  font-weight: bold;
+}
 /*Footer css*/
 footer {
   color: transparent;
@@ -103,12 +118,12 @@ footer {
   text-align: left;
   padding: 2rem;
   position: absolute;
- width: 100%;
+  width: 100%;
   background-color: black;
   color: white;
   font-family: "Times New Roman", Times, serif;
   font-size: large;
-  padding: 0r2%em;
+  padding: 0rem;
 }
 
 
