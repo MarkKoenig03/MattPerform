@@ -117,12 +117,9 @@ header{
   font-weight: bold;
 }
 /*Footer css*/
-footer {
-  color: transparent;
-  padding: 0rem;
-}
 
-.footer {
+
+footer .footer {
   text-align: left;
   padding: 2rem;
   position: absolute;
