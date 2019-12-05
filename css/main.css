@@ -57,9 +57,7 @@ header{
   background-color: transparent;
   color: white;
 }
-.row{
-  background-color: black;
-}
+
 .mainText {
   background-color: transparent;
   color: white;
@@ -68,6 +66,7 @@ header{
 }
 .col-sm-4{
   color: white;
+  background-color: black;
 }
 .caboff{
   float: right;
@@ -119,7 +118,7 @@ header{
 /*Footer css*/
 
 
-footer .footer {
+ .footer {
   text-align: left;
   padding: 2rem;
   position: absolute;
