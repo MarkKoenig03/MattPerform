@@ -28,7 +28,9 @@ header{
 }
 .ase{
   border-radius: 15px ;
- 
+  width: 100%;
+  max-width: 150px;
+  height: auto;
 }
 .title {
   font-family: "Times New Roman", Times, serif;
