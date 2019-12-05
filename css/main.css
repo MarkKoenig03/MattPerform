@@ -75,6 +75,13 @@ header{
 .BTE{
  font-weight: bold ;
 }
+.XDPlogo{
+  height: 100px;
+  float: right;
+}
+.XDP{
+  font-weight: bold;
+}
 /*Footer css*/
 footer {
   color: transparent;
