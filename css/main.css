@@ -9,14 +9,13 @@ body {
 
 /*Header css*/
 header{
-  background-color: black; 
+  background-color: transparent; 
 }
 .header {
   color: white;
-  background-color: transparent;
+  background-color: black;
   padding: 15rem;
   text-align: center;
-  background-color: transparent;
   background-image: url(../images/busniessCardCar.jpg);
   background-size: contain; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
   -webkit-background-size: contain; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
@@ -29,7 +28,7 @@ header{
 }
 .ase{
   border-radius: 15px ;
-  im: center;
+ 
 }
 .title {
   font-family: "Times New Roman", Times, serif;
@@ -40,7 +39,7 @@ header{
   
 }
 .jumbotron {
-  background-color: transparent;
+  background-color: black;
   color: white;
 }
 .slogan {
@@ -51,21 +50,18 @@ header{
   background-color: transparent;
 }
 .nav {
-  color: black;
+  color: white;
   padding-bottom: 2rem;
 }
 /*body css*/
 .container {
   background-color: transparent;
-  color: black;
-}
-.row {
-  background-color: transparent;
+  color: white;
 }
 
 .mainText {
-  background-color: transparent;
-  color: black;
+  background-color: black;
+  color: white;
   padding: 0.1rem;
 }
 .caboff{
@@ -89,12 +85,12 @@ footer {
   text-align: left;
   padding: 1rem;
   position: absolute;
-  color: transparent;
-  background-color: transparent;
-  color: black;
+ 
+  background-color: black;
+  color: white;
   font-family: "Times New Roman", Times, serif;
   font-size: large;
-  padding: 0rem;
+  padding: 0r2%em;
 }
 
 
