@@ -4,8 +4,8 @@ body {
 }
 
 /*Header css*/
-header{
-  background-color: transparent; 
+header {
+  background-color: transparent;
 }
 .header {
   color: white;
@@ -22,8 +22,8 @@ header{
   background-repeat: no-repeat;
   background-position: center;
 }
-.ase{
-  border-radius: 15px ;
+.ase {
+  border-radius: 15px;
   width: 100%;
   max-width: 150px;
   height: auto;
@@ -34,7 +34,6 @@ header{
   text-align: center;
   color: white;
   padding: 0rem;
-  
 }
 .jumbotron {
   background-color: transparent;
@@ -62,67 +61,64 @@ header{
   background-color: transparent;
   color: white;
   padding: 0.1rem;
-  
 }
-.col-sm-4{
+.col-sm-4 {
   color: white;
   background-color: black;
 }
-.caboff{
+.caboff {
   float: right;
   border-right: 15px;
-
 }
-.btelogo{
+.btelogo {
   height: 100px;
   float: right;
   margin: 0 0 10px 10px;
 }
-.bte-p{
+.bte-p {
   clear: left;
   overflow: auto;
   color: white;
 }
-.BTE{
-  font-weight: bold ;
-}
-.XDPlogo{
-  height: 75px;
-  float: right;
-  margin: 0 0 10px 10px ;
-}
-.xdp-p{
-  clear: left;
-  overflow: auto;
-  color: white;
-}
-.XDP{
+.BTE {
   font-weight: bold;
 }
-.btrlogo{
+.XDPlogo {
+  height: 75px;
+  float: right;
+  margin: 0 0 10px 10px;
+}
+.xdp-p {
+  clear: left;
+  overflow: auto;
+  color: white;
+}
+.XDP {
+  font-weight: bold;
+}
+.btrlogo {
   background-color: black;
   height: 100%;
   width: auto;
   max-width: 200px;
-  border-radius:5px ;
+  border-radius: 5px;
   float: right;
 }
-.btr-p{
+.btr-p {
   clear: left;
   overflow: auto;
   color: white;
 }
-.btr{
+.btr {
   font-weight: bold;
 }
 
-.comingSoon{
+.comingSoon {
   float: center;
 }
 /*Footer css*/
 
-
- .footer {
+.footer {
   text-align: left;
   padding: 2rem;
   position: absolute;
@@ -133,5 +129,3 @@ header{
   font-size: large;
   padding: 0rem;
 }
-
-
