@@ -21,17 +21,10 @@ header{
   background-image: url(../images/busniessCardCar.jpg);
   background-size: contain; /* for IE9+, Safari 4.1+, Chrome 3.0+, Firefox 3.6+ */
   -webkit-background-size: contain; /* for Safari 3.0 - 4.0 , Chrome 1.0 - 3.0 */
-<<<<<<< HEAD
-  -moz-background-siz: 1000 800; /* optional for Firefox 3.6 */
-  -o-backgroundize: 1000 800; /* for Opera 9.5 */
-  margin: 0rem; /* to remove the default white margin of body */
-  padding: 8rem; /* to remove the default white margin of body */
-=======
   -moz-background-siz: contain; /* optional for Firefox 3.6 */
   -o-backgroundize: contain; /* for Opera 9.5 */
   margin: 0rem; /* to remove the default black margin of body */
   padding: 8rem; /* to remove the default black margin of body */
->>>>>>> 57eb1a56f6ec31f72c9a2a2ce46e43754b857e63
   background-repeat: no-repeat;
   background-position: center;
 }
