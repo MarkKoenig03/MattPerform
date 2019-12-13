@@ -7,6 +7,14 @@ body {
 div {
   padding: 2rem;
 }
+.btn {
+  background-color: DodgerBlue; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
 
 /*image CSS*/
 .sportscars {
@@ -23,7 +31,7 @@ div {
   width: 100%;
 }
 
-.performanceford{
+.performanceford {
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Safari 3-8 */
   transform: rotate(90deg);
