@@ -1,5 +1,8 @@
 /*Main page CSS*/
-<<<<<<< HEAD
+nav{
+  background-color: black;
+  color: white;
+}
 .btn {
   background-color: DodgerBlue; /* Blue background */
   border: none; /* Remove borders */
@@ -13,13 +16,7 @@ body {
   color: white;
   padding: 2rem;
 }
-=======
-body {
-  background-color: black;
-  color: white;
-  padding: 2rem;
-}
->>>>>>> 5bfb7e57d1af397d34341b6512678c27a39e76b8
+
 div {
   padding: 2rem;
 }
@@ -39,16 +36,8 @@ div {
   width: 100%;
 }
 
-<<<<<<< HEAD
 .performanceford {
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Safari 3-8 */
   transform: rotate(90deg);
 }
-=======
-.performanceford{
-  -ms-transform: rotate(90deg); /* IE 9 */
-  -webkit-transform: rotate(90deg); /* Safari 3-8 */
-  transform: rotate(90deg);
-}
->>>>>>> 5bfb7e57d1af397d34341b6512678c27a39e76b8
