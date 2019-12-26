@@ -4,7 +4,7 @@ nav{
   color: white;
 }
 .btn {
-  background-color: DodgerBlue; /* Blue background */
+  background-color: black; /* Blue background */
   border: none; /* Remove borders */
   color: white; /* White text */
   padding: 12px 16px; /* Some padding */
@@ -40,4 +40,7 @@ div {
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Safari 3-8 */
   transform: rotate(90deg);
+}
+.caption{
+  color: white;
 }
