@@ -1,4 +1,3 @@
-
 body {
   background-color: transparent;
   padding: 0rem;
@@ -113,6 +112,19 @@ header {
 }
 .btr {
   font-weight: bold;
+}
+.tblogo {
+  background-color: black;
+  height: 100%;
+  width: auto;
+  max-width: 200px;
+  border-radius: 5px;
+  float: right;
+}
+.tbd-p {
+  clear: left;
+  overflow: auto;
+  color: white;
 }
 
 .comingSoon {
