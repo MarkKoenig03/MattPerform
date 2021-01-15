@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "mattingly"
+  "defaultProject": "mattingly",
+  "cli": {
+    "analytics": false
+  }
 }
